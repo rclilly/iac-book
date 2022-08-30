@@ -10,7 +10,7 @@ def hello_server(name, network):
                         name: [
                             {
                                 'allow_stopping_for_update': True,
-                                'zone': 'us-central1-a',
+                                'zone': 'us-west1-a',
                                 'boot_disk': [
                                     {
                                         'initialize_params': [
